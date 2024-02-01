@@ -1,0 +1,3 @@
+Positive Score: 7
+Negative Score: 18
+Polarity Score: -0.9973
